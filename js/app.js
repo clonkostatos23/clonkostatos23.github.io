@@ -1,4 +1,4 @@
-/*
+
 const rbxbtn = document.querySelector(".getrbx");
 
 const box1 = document.querySelector(".box");
@@ -50,4 +50,4 @@ let showbox3 = () => {
 let showbox4 = () => {
   box4.style.display = "block";
 };
-*/
+
